@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Upload Image</h1>
 
-<p id="description">Todo app Build using MERN Stack. Allowing to Upload Image and Image preview within app.</p>
+<p id="description">Image app Build using MERN Stack. Allowing to Upload Image and Image preview within app.</p>
 
   
   
