@@ -59,6 +59,6 @@ Technologies used in the project:
 
 <h2>Project Screenshots:</h2>
 
-1. Get all Todo list
+1. Upload Image
 
 <img src="https://github.com/akashpawar43/Full-Stack-Task/blob/master/client/src/assets/localhost_5173.png" alt="project-screenshot" >
